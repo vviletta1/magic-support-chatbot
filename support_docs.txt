@@ -1,0 +1,16 @@
+MagicSchool - Support FAQs
+
+Q: How do I reset my password?
+A: Click “Forgot password” on the login screen and follow the reset link sent to your email. If you don’t see the email, check your spam folder.
+
+Q: Can students under 13 use MagicSchool?
+A: Students under 13 may use MagicSchool with teacher supervision and in compliance with COPPA. We prioritize student data safety.
+
+Q: Is there a free version for teachers?
+A: Yes! MagicSchool offers a robust free tier with core generative AI tools and prompt libraries for K–12 educators.
+
+Q: What kind of AI do you use?
+A: MagicSchool is powered by LLMs, primarily OpenAI, tuned to align with educator needs, safety, and creativity.
+
+Q: Where can I suggest features?
+A: Use the “Feedback” button inside the platform or email support@magicschool.ai.

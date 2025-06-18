@@ -1,0 +1,12 @@
+User: how do i reset my password
+Bot: To reset your password, click “Forgot password” on the login screen and follow the reset link sent to your email. If you don’t see the email, check your spam folder.
+---
+User: how do i reset my password
+Bot: To reset your password, click “Forgot password” on the login screen and follow the reset link sent to your email. If you don’t see the email, check your spam folder.
+---
+User: how do i reset my password
+Bot: To reset your password, click “Forgot password” on the login screen and follow the reset link sent to your email. If you don’t see the email, check your spam folder.
+---
+User: how do i reset my password
+Bot: To reset your password, click “Forgot password” on the login screen and follow the reset link sent to your email. If you don’t see the email, check your spam folder.
+---
